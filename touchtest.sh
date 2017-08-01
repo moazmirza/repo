@@ -1,2 +1,3 @@
 #!/bin/bash
-touch ../tmp/moaz
+cd /tmp
+touch touchtest
