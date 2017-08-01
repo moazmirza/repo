@@ -1,2 +1,2 @@
 #!/bin/bash
-rm /tmp/test1
+echo "This is a test" > test.txt
