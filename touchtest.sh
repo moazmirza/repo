@@ -1,3 +1,2 @@
 #!/bin/bash
-cd /tmp
-touch touchtest
+rm /tmp/test1
